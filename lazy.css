@@ -1,0 +1,28 @@
+/* GENERAL */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/* Header */
+header {
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid black;
+    height: 50px;
+}
+header ul {
+    float: right;
+}
+header ul li {
+    display: inline-block;
+}
+
+/* Text formating */
+a {
+    color: rgb(70, 70, 70);
+}
